@@ -1,3 +1,8 @@
-# Template repo for CMPUT 429 A4 - Vectorization
+## Overview
 
-This tests vectorization on the RISCV CPU architecture. You are asked to analyze the effects of adding vectorization to a processor architecture.
+These are the files for the CMPUT 429 GPU assignment.
+
+`/thread-divergence` contains the files for the first section, Thread Divergence
+`/memory-coalesing` contains the files for the second section, Memory Coalesing
+
+The `makefile` automatically builds the binaries.
